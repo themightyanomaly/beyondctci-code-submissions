@@ -1,5 +1,5 @@
 # Managed by BeyondCTCI one-way sync (force-pushed). Manual edits are not reconciled and may be overwritten by future syncs.
-# Wrong Answer: Submission produced output that did not match the expected output.zzzzz
+# Wrong Answer: Submission produced output that did not match the expected output.
 def three_sum(arr, w):
   # Build value to indices map
   val_to_indices = {}
